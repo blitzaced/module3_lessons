@@ -1,4 +1,4 @@
-# SQL Fundamentals
+# SQL Essentials
 
 """
     What is SQL?
